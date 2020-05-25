@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game2048</string>
+    <string name="score">得分</string>
+    <string name="bsScore">最高</string>
+    <string name="newgame">新游戏</string>
+    <string name="revoke">撤销</string>
+    <string name="appinfo">Code by cc</string>
+</resources>
