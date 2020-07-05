@@ -27,7 +27,7 @@ public class Card extends FrameLayout {
 
         label=new TextView(getContext());
         label.setGravity(Gravity.CENTER);
-        label.setTextSize(45);
+        label.setTextSize(40 ); 
         label.setTypeface(Typeface.defaultFromStyle(Typeface.BOLD));
         addView(label,lp);
 
